@@ -1,1 +1,1 @@
-..?git di
+..?git di이게 지금 develop 에서 바꾼거임
