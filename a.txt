@@ -1,1 +1,1 @@
-..?git d
+..?git d이게 지금 master 에서 바꾼거임
