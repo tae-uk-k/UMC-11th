@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-..?git d이게 지금 master 에서 바꾼거임
-=======
-..?git di이게 지금 develop 에서 바꾼거임
->>>>>>> develop
